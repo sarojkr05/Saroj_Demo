@@ -1,2 +1,3 @@
 # Saroj_Demo
-This is my first Git repository
+This is my first Git repository.
+Author: Saroj Kumar Das
